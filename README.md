@@ -1,6 +1,6 @@
 At the intersection of humans and technology.
 
-Co-founder and CTO of [macro](https://macro.io), prev. @ [doordash](https://doordash.com), MBA @ [hbs](https://hbs.edu), CS @ [harvard](https://harvardms.mba/), eng. @ [purdue](https://purdue.edu)
+Co-founder and CTO of [macro](https://macro.io) (we're hiring!), prev. @ [doordash](https://doordash.com), MBA @ [hbs](https://hbs.edu), CS @ [harvard](https://harvardms.mba/), eng. @ [purdue](https://purdue.edu)
 
 Currently building to improve collaboration and foster inclusive conversations at work with [@ankithharathi](https://twitter.com/@ankithharathi). Focused on the future of work and helping people live more productive lives through simple, powerful software.
 
