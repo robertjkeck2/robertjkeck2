@@ -1,4 +1,4 @@
-Co-founder and CTO of [macro](https://macro.io) (we're hiring!), prev. @ [doordash](https://doordash.com), MBA @ [hbs](https://hbs.edu), CS @ [harvard](https://harvardms.mba/), eng. @ [purdue](https://purdue.edu)
+Engineering at [mmhmm](https://mmhmm.app), prev. co-founder and CTO of [macro](https://macro.io) (acquired by mmhmm), early employee @ [doordash](https://doordash.com), MBA @ [hbs](https://hbs.edu), CS @ [harvard](https://harvardms.mba/), eng. @ [purdue](https://purdue.edu)
 
 Currently building to improve collaboration and foster inclusive conversations at work with [@ankithharathi](https://twitter.com/@ankithharathi). Focused on the future of work and helping people live more delightful lives through simple, powerful software.
 
